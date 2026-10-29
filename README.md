@@ -1,6 +1,6 @@
 # The Intent to Give it Your All
 
-**Finalist submission at the 2025 SMT Data Challenge (finals result pending)**
+*See [here](https://x.com/tomdoyo/status/2005440288152776805?a=JNLvI3bHZIrFuEvJAak&s=20) for a visual explainer!*
 
 ![Pete Rose Charlie Hustle](https://github.com/user-attachments/assets/9f6865f2-ccb7-41d1-a25d-b39e16e88a11)  
 *Figure 1: “Charlie Hustle” Pete Rose diving towards home.*
